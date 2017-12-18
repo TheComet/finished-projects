@@ -10,6 +10,10 @@ PonyCraft is an *attempt* at an RTS  game  with ponies. It's somewhat playable
 but I realized the scope  of the game was just too large for me to manage, and
 the code was getting very messy.
 
+![](screenshots/ponycraft_shot2_zps09d53ac1.jpg)
+
+![](screenshots/ponycraft_shot3_zpsab809e92.jpg)
+
 ![](screenshots/smoke.gif)
 
 ![](screenshots/IMG_25082012_005904_zps6de6993f.png)
@@ -17,10 +21,6 @@ the code was getting very messy.
 ![](screenshots/improved_textures.png)
 
 ![](screenshots/ponycraft_formation1.png)
-
-![](screenshots/ponycraft_shot2_zps09d53ac1.jpg)
-
-![](screenshots/ponycraft_shot3_zpsab809e92.jpg)
 
 Tips
 ----

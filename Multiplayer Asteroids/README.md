@@ -12,7 +12,8 @@ The  biggest  issue  with  this  game is the poor implementation of  collision
 detection. The game gets really slow when there are  lots  of asteroids on the
 screen.
 
-Video: [](https://www.youtube.com/watch?v=us4QNcXiwVA)
+Video:
+[](https://www.youtube.com/watch?v=us4QNcXiwVA)
 
 Controls
 --------

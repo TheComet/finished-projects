@@ -9,7 +9,8 @@ who  has  the  most  tiles  after  the  game  timer  expires  is  the  winner.
 The game supports networked multiplayer with  up  to  20  players and it has a
 powerful map editor.
 
-Video: [](https://www.youtube.com/watch?v=M-5yaHqDP8o)
+Video:
+[](https://www.youtube.com/watch?v=M-5yaHqDP8o)
 
 ![](screenshots/yeah.jpg)
 ![](screenshots/Lightship_Editor_4.png)
