@@ -12,7 +12,7 @@ decided to implement this as a computer game.
 
 This game  comes with a level editor so you can draw your own maps. To see how
 that          looks,         watch          this          video          here:
-[](https://www.youtube.com/watch?v=NT-oY_ua9vg).
+[https://www.youtube.com/watch?v=NT-oY_ua9vg](https://www.youtube.com/watch?v=NT-oY_ua9vg).
 
 ![](screenshots/doodlerace_crashtest.png)
 
